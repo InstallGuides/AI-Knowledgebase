@@ -1,0 +1,8 @@
+# Secrets: never commit these
+.env
+
+# The Finder's view settings for each folder
+.DS_Store
+
+# Obsidian's window layout, if you open this folder as a vault
+.obsidian/workspace*.json
