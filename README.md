@@ -2,7 +2,7 @@
 
 This folder is a research wiki that you build with an AI assistant. You give it sources, and it turns them into linked pages that say what's known, where it came from, and what's still unknown. The example wiki is for a neighborhood group planning a community garden.
 
-*A side track: build a research wiki with an AI assistant. No coding needed.*
+*Build a research wiki with an AI assistant. No coding needed.*
 
 ## Open this folder with your AI assistant
 

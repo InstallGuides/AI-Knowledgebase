@@ -4,7 +4,7 @@ Using your own copy? Open `README.md` in this folder to start.
 
 A research wiki you build with an AI assistant such as Claude or Codex. You give it sources, and it turns them into linked pages that say what's known, where it came from, and what's still unknown. The example wiki is for a neighborhood group planning a community garden. No coding needed.
 
-*A side track: build a research wiki with an AI assistant. No coding needed.*
+*Build a research wiki with an AI assistant. No coding needed.*
 
 It's one of the example projects from [Mac Install Guide](https://mac.install.guide/developer-setup/starter-project).
 
